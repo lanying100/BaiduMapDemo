@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaiduMapDemo</string>
+    <string-array name="functions">
+        <item>普通地图</item>
+        <item>卫星地图</item>
+        <item>实时地图</item>
+        <item>我在哪儿</item>
+        <item>普通</item>
+        <item>罗盘</item>
+        <item>跟随</item>
+        <item>城市内检索</item>
+
+    </string-array>
+</resources>
