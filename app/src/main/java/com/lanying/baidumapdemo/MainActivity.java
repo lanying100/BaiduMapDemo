@@ -239,6 +239,12 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                             .pageNum(10));
     }
 
+
+    /**
+     * 覆盖物点击事件
+     * @param marker
+     * @return
+     */
     @Override
     public boolean onMarkerClick(Marker marker) {
         LatLng ll = marker.getPosition();
